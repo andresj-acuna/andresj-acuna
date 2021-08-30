@@ -1,5 +1,4 @@
-# Hola soy Andrés Acuña 👋🏻
-Frontend Developer
+# ¡Hola! Soy Andrés Acuña Frontend Developer 👋🏻
 
 ## 🧐 Acerca de mí
 
