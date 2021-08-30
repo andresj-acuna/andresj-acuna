@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hola soy Andrés Acuña 👋🏻
+Frontend Developer
 
-<!--
-**andresj-acuna/andresj-acuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 Acerca de mí
 
-Here are some ideas to get you started:
+Soy Frontend Developer, apasionado por el desarrollo y el aprendizaje constante. Me encanta implementar diseños que atraigan a las personas, poder aplicar
+nuevas tecnologías y afrontar los desafíos que se me presentan con esfuerzo y entusiasmo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tecnologías
+
+* JavaScript
+* HTML
+* CSS
+* React
+* Firebase
+
+## 📱 Sigamos en contacto
+
+- LinkedIn - (https://in.linkedin.com/in/andresj-acuna)
+- E-mail - (andres.cbaa@gmail.com)
+
+---
+
