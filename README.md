@@ -8,8 +8,8 @@ nuevas tecnologías y afrontar los desafíos que se me presentan con esfuerzo y 
 
 ## ⚡ Tecnologías
 
-* **JavaScript
-* **HTML
+* JavaScript
+* **HTML**
 * **CSS
 * **React
 * **Firebase
