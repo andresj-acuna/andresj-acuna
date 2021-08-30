@@ -15,8 +15,8 @@ nuevas tecnologías y afrontar los desafíos que se me presentan con esfuerzo y 
 
 ## 📱 Sigamos en contacto
 
-- LinkedIn - (https://in.linkedin.com/in/andresj-acuna)
-- E-mail - (andres.cbaa@gmail.com)
+- LinkedIn: https://in.linkedin.com/in/andresj-acuna
+- E-mail: andres.cbaa@gmail.com
 
 ---
 
