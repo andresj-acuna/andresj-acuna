@@ -6,7 +6,7 @@ nuevas tecnologías y afrontar los desafíos que se me presentan con esfuerzo y 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- ⚡ #Tecnologías
+ # ⚡ Tecnologías
 
 * **JavaScript**
 * **HTML**
@@ -16,7 +16,7 @@ nuevas tecnologías y afrontar los desafíos que se me presentan con esfuerzo y 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- 📱 #Sigamos en contacto
+ # 📱 Sigamos en contacto
 
 - **LinkedIn: https://in.linkedin.com/in/andresj-acuna**
 - **E-mail: andres.cbaa@gmail.com**
